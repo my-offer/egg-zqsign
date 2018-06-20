@@ -1,6 +1,6 @@
 {
   "name": "egg-zqsign",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "",
   "eggPlugin": {
     "name": "zqSign"
@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "@types/node": "^10.3.3",
-    "zqsign": "^1.1.0"
+    "zqsign": "1.2.0"
   },
   "devDependencies": {
     "@types/egg": "^1.5.0",
